@@ -5,7 +5,7 @@
 ![barchartexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774735/barchartexcell.xlsx)
 
 # barchart
-1[bargraphexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774736/bargraphexcell.xlsx)
+![bargraphexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774736/bargraphexcell.xlsx)
 
 # PivotTable
 ![pivottable](https://user-images.githubusercontent.com/78474460/219876924-94a83082-cd26-4f05-aa26-def72f0a13f6.PNG)
@@ -20,4 +20,4 @@
 ![Dynamic Array Formulas](https://user-images.githubusercontent.com/78474460/219876973-6a81489a-4cb2-4b60-b2af-55862f4adac6.PNG)
 
 # Dashboard
-1[dashboardexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774732/dashboardexcell.xlsx)
+![dashboardexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774732/dashboardexcell.xlsx)
