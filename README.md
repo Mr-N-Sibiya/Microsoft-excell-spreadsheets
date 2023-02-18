@@ -6,7 +6,7 @@
 ![bargraph](https://user-images.githubusercontent.com/78474460/219877748-b2830ee7-1519-4eb5-8cb2-363c25b341ff.PNG)
 
 # barchart
-![bargraphexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774736/bargraphexcell.xlsx)
+![barschartwithdata](https://user-images.githubusercontent.com/78474460/219877822-a7e0f006-6086-40c3-9231-95547d19e1a7.PNG)
 
 # PivotTable
 ![pivottable](https://user-images.githubusercontent.com/78474460/219876924-94a83082-cd26-4f05-aa26-def72f0a13f6.PNG)
