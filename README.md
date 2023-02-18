@@ -2,15 +2,15 @@
 ![visuals](https://user-images.githubusercontent.com/78474460/219876907-be7d0e7c-d219-49f1-95d9-2b2a9fc60460.PNG)
 
 # barchart
-[barchartexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774735/barchartexcell.xlsx)
+![barchartexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774735/barchartexcell.xlsx)
 
-3 barchart
-[bargraphexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774736/bargraphexcell.xlsx)
+# barchart
+1[bargraphexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774736/bargraphexcell.xlsx)
 
 # PivotTable
 ![pivottable](https://user-images.githubusercontent.com/78474460/219876924-94a83082-cd26-4f05-aa26-def72f0a13f6.PNG)
 
-#Heat Map
+# Heat Map
 ![heatmappic](https://user-images.githubusercontent.com/78474460/219876932-ca8abeec-4f66-45fe-add3-72b7cd105e5e.PNG)
 
 # frequency Table
@@ -19,5 +19,5 @@
 # Array Formulas
 ![Dynamic Array Formulas](https://user-images.githubusercontent.com/78474460/219876973-6a81489a-4cb2-4b60-b2af-55862f4adac6.PNG)
 
-#Dashboard
-[dashboardexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774732/dashboardexcell.xlsx)
+# Dashboard
+1[dashboardexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774732/dashboardexcell.xlsx)
