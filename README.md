@@ -1,8 +1,9 @@
 # This is a preview of the skills i have in excell spreadsheets, with images for easy view.
+
 ![visuals](https://user-images.githubusercontent.com/78474460/219876907-be7d0e7c-d219-49f1-95d9-2b2a9fc60460.PNG)
 
 # barchart
-![barchartexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774735/barchartexcell.xlsx)
+![bargraph](https://user-images.githubusercontent.com/78474460/219877748-b2830ee7-1519-4eb5-8cb2-363c25b341ff.PNG)
 
 # barchart
 ![bargraphexcell.xlsx](https://github.com/Mr-N-Sibiya/Microsoft-excell-spreadsheets/files/10774736/bargraphexcell.xlsx)
